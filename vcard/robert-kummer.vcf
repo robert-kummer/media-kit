@@ -10,12 +10,9 @@ ADR;TYPE=WORK:;;Hohenstaufenstraße 35;Berlin;;10779;Deutschland
 URL;TYPE=WORK:https://robert-kummer.de/
 item1.URL:https://www.linkedin.com/in/robertkummer/
 item1.X-ABLabel:LinkedIn
-item2.URL:https://github.com/rokde
+item2.URL:https://github.com/robert-kummer
 item2.X-ABLabel:GitHub
-item3.URL:https://github.com/robert-kummer
-item3.X-ABLabel:GitHub Robert Kummer IT
 X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/robertkummer/
-X-SOCIALPROFILE;TYPE=github:https://github.com/rokde
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4QCgRXhpZgAATU0AKgAAAAgAAwE7AAIAAAAeAAAAMgIT
  AAMAAAABAAEAAIKYAAIAAABHAAAAUAAAAABNaWNoZWxsZSBGaWVkbGVyIC8gQ2FtIEFnZW5jeQ
  BGb3RvOiBNaWNoZWxsZSBGaWVkbGVyIC8gQ2FtIEFnZW5jeSDigJMgZnJlaSBudXR6YmFyIG1p
