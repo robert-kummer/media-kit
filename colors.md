@@ -1,6 +1,6 @@
 # Farben
 
-Abgeleitet aus dem Website-Entwurf „Variante C“ (robert-kummer.de). Dunkler Grund, warmes Off-White, ein einziger Akzent.
+Dunkler Grund, warmes Off-White, ein einziger Akzent.
 
 | Token | Hex | Verwendung |
 |---|---|---|

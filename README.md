@@ -1,6 +1,6 @@
 # Robert Kummer – Media Kit
 
-Logos, Icons, Farben, Typografie, Foto und Kontaktdaten für Robert Kummer IT. Basis ist der Website-Entwurf „Variante C“ für robert-kummer.de.
+Logos, Icons, Farben, Typografie, Foto und Kontaktdaten für Robert Kummer IT.
 
 ![Übersicht](docs/preview.png)
 
