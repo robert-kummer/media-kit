@@ -51,6 +51,14 @@ Jedes Logo gibt es in vier Ausführungen:
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 ```
 
+## Logo-Regeln
+
+- **Schutzzone:** rund um das Logo mindestens ¼ der Markenhöhe frei lassen.
+- **Mindestgröße:** Bildmarke 16 px (Favicon), Lockup 120 px breit.
+- Nicht verzerren, drehen, mit Effekten (Schatten, Verlauf, Kontur) versehen oder umfärben außerhalb der Palette.
+- Die Bildmarke steht auf ruhigem Grund. Auf Fotos nur mit ausreichendem Kontrast.
+- Akzent `#B69963` sparsam einsetzen (siehe [colors.md](colors.md)).
+
 ## Foto
 
 ![Robert Kummer](photo/robert-kummer-square-800.jpg)
@@ -73,14 +81,6 @@ Das Foto darf für Berichte, Vorträge, Veranstaltungen und Profile über Robert
 
 Direktlink zum Teilen:
 `https://raw.githubusercontent.com/robert-kummer/media-kit/main/vcard/robert-kummer.vcf`
-
-## Regeln
-
-- **Schutzzone:** rund um das Logo mindestens ¼ der Markenhöhe frei lassen.
-- **Mindestgröße:** Bildmarke 16 px (Favicon), Lockup 120 px breit.
-- Nicht verzerren, drehen, mit Effekten (Schatten, Verlauf, Kontur) versehen oder umfärben außerhalb der Palette.
-- Die Bildmarke steht auf ruhigem Grund. Auf Fotos nur mit ausreichendem Kontrast.
-- Akzent `#B69963` sparsam einsetzen (siehe [colors.md](colors.md)).
 
 ## Rechte
 
