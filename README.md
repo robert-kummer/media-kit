@@ -15,7 +15,7 @@ logo/
 └── legacy/     ursprüngliche Dateien (Gold, mit Rahmen) – nicht mehr verwenden
 icon/           Avatare, Favicon (svg/ico), App-Icons, apple-touch-icon
 png/            Rasterexporte der Logos (256/512/1024 px)
-social/         Titelbilder LinkedIn (1584 × 396) und Xing (1280 × 624), HTML-Vorlage + PNG, render.sh
+social/         Titelbilder LinkedIn-Profil (1584 × 396), LinkedIn-Unternehmensseite (1512 × 256) und Xing (1280 × 624), HTML-Vorlage + PNG, render.sh
 photo/          Portraitfoto (Original, Web, quadratisch)
 vcard/          Visitenkarte als vCard (.vcf) mit Foto
 tokens.json     Farben, Fonts, Radien als Design Tokens
